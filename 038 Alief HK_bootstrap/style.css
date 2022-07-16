@@ -1,0 +1,35 @@
+* {
+  font-family: "Josefin Sans", sans-serif;
+}
+.jumbotron {
+  padding: 10rem 8rem 16rem 8rem;
+  background-color: #e2edff;
+}
+section h1 {
+  align-items: center;
+  padding-top: 1rem;
+}
+.row {
+  padding-top: 5rem;
+}
+#about {
+  padding-top: 2rem;
+  padding-bottom: 20rem;
+  background-color: #dae2b6;
+}
+
+#gallery {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#brand {
+  color: #000;
+  z-index: 1;
+  display: inline-block;
+}
+.nav-item {
+  color: white;
+  z-index: 1;
+  display: inline-block;
+}
